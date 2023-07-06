@@ -17,7 +17,6 @@ const App = () => {
 const styles = StyleSheet.create({
   full: {
     flex: 1,
-    backgroundColor: 'green',
   },
 });
 
